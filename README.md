@@ -14,7 +14,7 @@ Because this annoys me so much, here is a simple script that does it automatical
 
 1. Download the ```calculate.py``` script.
 2. Download your statement of results from IS-Academia.
-3. Run the script and give the path to the results as an argument.
+3. Run the script and give the (relative or absolute) path to the results as an argument.
 
 Example:
 ```bash
