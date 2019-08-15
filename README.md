@@ -26,7 +26,7 @@ python calculate.py /Users/dogatekin/Downloads/transcript.pdf
 
 1. Are you sure this works correctly?
 
-No. The script relies on a PDF library that is not mine and also on my admittedly limited knowledge of regular expressions. Double check the result if you are putting your GPA on an important document (or better yet, improve my code and make it more robust). I deny all responsibility if you blindly trust this hacky script and it backfires horribly.
+No. The script relies on a PDF library that is not mine and also on my admittedly limited knowledge of regular expressions. Double check the result if you are putting your GPA on an important document (or better yet, improve my code and make it more robust). I deny all responsibility if you blindly trust this hacky script and it backfires.
 
 It seems to work fine on my transcript, though :)
 
